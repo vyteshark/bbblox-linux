@@ -3,7 +3,7 @@
 # bubbablox installer for linux
 </div>
 
-<img src="https://i.ibb.co/dwwxLdxn/ss.png">
+<img src="/ss.png">
 
 ## installation:
 1. run the script as root - ```sudo bash bbblox-linux.sh```
